@@ -29,3 +29,11 @@ div{
     width: 300px;
 }
 
+footer{
+    background-color: black;
+}
+
+li{
+    color: orange;
+    list-style: none;
+}
